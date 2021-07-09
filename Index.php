@@ -3,8 +3,11 @@
 ?>
 <!DOCTYPE html>
 <html>
-        <head>
-            <title>F*ck</title>
-            <script></script>
-        </head>
+    <head>
+        <title>F*ck</title>
+        <script></script>
+    </head>
+    <body>
+        
+    </body>
 </html>
