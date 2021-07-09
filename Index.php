@@ -3,6 +3,7 @@
 ?>
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
         <head>
             <title>F*ck</title>
             <script></script>
